@@ -1,22 +1,23 @@
-### Merhaba, ben Kubra! ⚡
+### Hey there, I'm Kubra! ⚡
 
-**Junior Full Stack Developer | Java'da Gelişiyor 🌱**
+**Junior Full Stack Developer | Developing in Java 🌱**
 
-Türkiye'de yaşayan bir Junior Full Stack Developer'ım. Uçtan uca uygulamalar geliştirmekten ve yapısal problemleri çözmekten keyif alıyorum. Son zamanlarda odak noktamı **Java** ekosistemine yönlendirdim; gelecekteki projelerimi geliştirmek üzere Java backend teknolojilerini aktif olarak öğreniyorum.
+I'm a Junior Full Stack Developer based in Turkey. I enjoy building end-to-end applications and solving structural problems. Recently, I have directed my focus towards the **Java** ecosystem, actively learning its backend technologies to build my upcoming scalable systems.
 
-- 🔭 Şu anda **Java** backend ekosistemine yoğunlaştım; aktif olarak öğreniyorum.
-- 🌱 **Mikroservis mimarisi, RabbitMQ, Kafka ve Docker** teknolojilerini öğrendim ve bunları **.NET Core** projelerimde uyguladım.
-- 💼 Geçmiş tecrübelerim arasında **C#, ASP.NET Core ve Redis** kullanarak geliştirdiğim kapsamlı, full-stack ve mikroservis tabanlı projeler yer alıyor.
-- 💬 Bana şunları sorabilirsin: Backend mimarisi, farklı teknolojilere geçiş süreçleri veya geliştirdiğim .NET Core API projeleri!
+- 🔭 I’m currently focusing on the **Java** backend ecosystem, actively learning and preparing for my future projects.
+- 🌱 I have learned and implemented **Microservices architecture, RabbitMQ, Kafka, and Docker** within my **.NET Core** projects.
+- 💼 My background includes comprehensive, full-stack, and microservice-based projects using **C#, ASP.NET Core, and Redis**.
+- 💬 Ask me about: Backend architecture, transitioning between tech stacks, or my .NET Core API projects!
+- 📫 How to reach me: [LinkedIn Profil Linkini Buraya Ekle] | [E-posta Adresini Buraya Ekle]
 
-### 🛠️ Diller ve Araçlar
+### 🛠️ Languages and Tools
 
-**Şu Anda Öğrendiklerim:**
+**Currently Learning:**
 <img align="left" alt="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img align="left" alt="Spring" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 <br><br>
 
-**Teknoloji Yığını ve Araçlar:**
+**Tech Stack & Tools:**
 <img align="left" alt="C#" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 <img align="left" alt=".NET Core" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
 <img align="left" alt="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
