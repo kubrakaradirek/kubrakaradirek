@@ -2,7 +2,7 @@
 
 **Junior Full Stack Developer | Developing in Java 🌱**
 
-I'm a Junior Full Stack Developer based in Turkey. I enjoy building end-to-end applications and solving structural problems. Recently, I have directed my focus towards the **Java** ecosystem, actively learning its backend technologies to build my upcoming scalable systems.
+I'm a Junior Full Stack Developer based in Turkey. I enjoy building end toend applications and solving structural problems. Recently, I have directed my focus towards the **Java** ecosystem, actively learning its backend technologies to build my upcoming scalable systems.
 
 - 🔭 I’m currently focusing on the **Java** backend ecosystem, actively learning and preparing for my future projects.
 - 🌱 I have learned and implemented **Microservices architecture, RabbitMQ, Kafka, and Docker** within my **.NET Core** projects.
