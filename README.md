@@ -1,4 +1,4 @@
-### Hey there, I'm Kübra! ⚡
+### Hey there, I'm Kubra! ⚡
 
 **Junior Full Stack Developer | Developing in Java 🌱**
 
