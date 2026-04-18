@@ -8,7 +8,6 @@ I'm a Junior Full Stack Developer based in Turkey. I enjoy building end-to-end a
 - 🌱 I have learned and implemented **Microservices architecture, RabbitMQ, Kafka, and Docker** within my **.NET Core** projects.
 - 💼 My background includes comprehensive, full-stack, and microservice-based projects using **C#, ASP.NET Core, and Redis**.
 - 💬 Ask me about: Backend architecture, transitioning between tech stacks, or my .NET Core API projects!
-- 📫 How to reach me: [LinkedIn Profil Linkini Buraya Ekle] | [E-posta Adresini Buraya Ekle]
 
 ---
 
