@@ -1,12 +1,13 @@
 ### Hey there, I'm Kubra! ⚡
 
-**Junior Full Stack Developer | Developing in Java 🌱**
+**Junior Backend Developer | Developing in Java 🌱**
 
-I'm a Junior Full Stack Developer based in Turkey. I enjoy building end toend applications and solving structural problems. Recently, I have directed my focus towards the **Java** ecosystem, actively learning its backend technologies to build my upcoming scalable systems.
+**Junior Backend Developer | Spring Boot · Microservices · .NET Core**
 
-- 🔭 I’m currently focusing on the **Java** backend ecosystem, actively learning and preparing for my future projects.
+- 💼 Experienced in **Java, Spring Boot, Spring Cloud, REST API,  Microservices, PostgreSQL, Docker**
 - 🌱 I have learned and implemented **Microservices architecture, RabbitMQ, Kafka, and Docker** within my **.NET Core** projects.
-- 💼 My background includes comprehensive, full-stack, and microservice-based projects using **C#, ASP.NET Core, and Redis**.
+- 💼 My background includes comprehensive, full stack, and microservice based projects using **C#, ASP.NET Core, and Redis**.
+- - 🌱 Currently deepening: **Java 21, Spring Data JPA**
 - 💬 Ask me about: Backend architecture, transitioning between tech stacks, or my .NET Core API projects!
 
 ---
